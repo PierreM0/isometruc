@@ -1,5 +1,5 @@
 # isometruc
-![isometruc](isometruc.pgn)
+![isometruc](isometruc.png)
 
 Just experimenting with isometric coordonates with pygame.
 
