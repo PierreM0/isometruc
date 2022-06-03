@@ -1,4 +1,6 @@
 # isometruc
+![isometruc](isometruc.pgn)
+
 Just experimenting with isometric coordonates with pygame.
 
 Thanks to [this video](https://www.youtube.com/watch?v=04oQ2jOUjkU) to give me the idea.
