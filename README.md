@@ -11,4 +11,4 @@ Thanks to [this video](https://www.youtube.com/watch?v=04oQ2jOUjkU) to give me t
 $ python3 isometruc.py
 ```
 
-The beautifull images are also onto the MIT Licence.
+The beautifull images and sounds are also on MIT Licence.

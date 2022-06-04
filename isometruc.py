@@ -256,6 +256,5 @@ if __name__ == '__main__':
                 player.move("left")
             elif e.key == pygame.K_RIGHT:
                 player.move("right")
-            print(player.pos)
         if player.pos.x == player.goal.x and player.pos.y == player.goal.y:
             goal = False
